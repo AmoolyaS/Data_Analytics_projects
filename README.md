@@ -18,9 +18,11 @@ Step A: Data discovered from mysql DB (Sales Management System) which will be th
 To reduce any impact on mysql -OLTP(Online Transaction Processing System) and prevent its effect on sales/business of the organisation, all transformation (ETL) is applied and stores data in a 
 Datawarehouse (Terra data, SNowflake etc.,). Apache,Nifi/Python pandas used for transformations.We transform the data in such a way that it is suitable for analytical queries.
 Here, in this case study for simplicity we just plug in PowerBI with MySQL and carry on analytics without building a Data Warehouse.
-
+ 3 Main Steps:
+ 
 Step B: Data Analysis using SQL.
 Step B: Data Wrangling/Data Munching/ Data Cleaning + ETL with Power BI. Established STAR schema with Transaction TB as Fact Table and remaining as Dimenison TBs
+
 Step C: Building Power BI dashboard/report
 
 
