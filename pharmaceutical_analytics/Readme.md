@@ -55,7 +55,19 @@ This project involves building a comprehensive Power BI data model for analyzing
   ```DAX
   YTD Sales = CALCULATE(SUM(Sales[Sales Amount]), DATESYTD(Date[Date]))
 
+**Technologies Used**
+ - Technologies Used
+ - Data Source: MySQL Database
+ - ETL Tools: Power BI, DAX for data calculations
+ - Schema Design: Star Schema with Fact and Dimension tables
+ - Data Visualization: Power BI Dashboards with custom visuals
+
 ## Preview
+Distributor & Customer Analysis
 ![Dashboard Preview](pharma_1.gif) 
+
+Sales Team Performance
 ![Dashboard Preview](pharma_2.gif) 
+
+Executive Summary
 ![Dashboard Preview](pharma_3.gif) 
