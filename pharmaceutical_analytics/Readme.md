@@ -54,3 +54,8 @@ This project involves building a comprehensive Power BI data model for analyzing
 - Created a **Year-to-Date (YTD) Sales** measure using DAX:
   ```DAX
   YTD Sales = CALCULATE(SUM(Sales[Sales Amount]), DATESYTD(Date[Date]))
+
+## Preview
+![Dashboard Preview](pharma_1.gif) 
+![Dashboard Preview](pharma_2.gif) 
+![Dashboard Preview](pharma_3.gif) 
