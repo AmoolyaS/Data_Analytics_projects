@@ -63,11 +63,11 @@ This project involves building a comprehensive Power BI data model for analyzing
  - Data Visualization: Power BI Dashboards with custom visuals
 
 ## Preview
-Distributor & Customer Analysis
+### Distributor & Customer Analysis
 ![Dashboard Preview](pharma_1.gif) 
 
-Sales Team Performance
+### Sales Team Performance
 ![Dashboard Preview](pharma_2.gif) 
 
-Executive Summary
+### Executive Summary
 ![Dashboard Preview](pharma_3.gif) 
