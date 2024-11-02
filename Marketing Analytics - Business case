@@ -1,7 +1,7 @@
 # ABC Retail Business Marketing Analysis
 
 ## Problem Statement
-ABC, an online retail business, faces reduced Customer Engagement & Conversion rates despite launching several new online marketing campaigns.
+**ABC**, an online retail business, faces reduced Customer Engagement & Conversion rates despite launching several new online marketing campaigns.
 
 ## Objective
 Conduct a detailed analysis to identify key areas for improving marketing strategies.
@@ -15,8 +15,8 @@ Conduct a detailed analysis to identify key areas for improving marketing strate
 Insights will be drawn from customer reviews (various issues and sentiments), social media comments, and campaign performance metrics. Decoding these data will help gain useful insights for improvements.
 
 ### Stakeholders
-- Marketing Manager
-- Customer Experience Manager
+- **Marketing Manager**
+- **Customer Experience Manager**
 
 ## Key Performance Indicators (KPIs)
 - **Conversion Rate:** Percentage of website visitors converting to customers.
@@ -62,4 +62,4 @@ Insights will be drawn from customer reviews (various issues and sentiments), so
 5. Present the data to stakeholders.
 
 ## Conclusion
-This analysis aims to provide actionable insights to improve ABC's marketing strategies, thereby enhancing customer engagement and conversion rates. Continued assessment and iterative improvements will be critical for ongoing success.
+This analysis aims to provide actionable insights to improve **ABC's** marketing strategies, thereby enhancing customer engagement and conversion rates. Continued assessment and iterative improvements will be critical for ongoing success.
