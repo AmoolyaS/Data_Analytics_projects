@@ -39,7 +39,7 @@ Each project folder contains:
 - **Data Processing & Analysis**: SQL, Python, Power BI, Excel.
 - **Visualization & Reporting**: Power BI, Excel.
 - **Database Management**: MySQL.
-- **Data Engineering**: Apache NiFi, Python (Pandas).
+- **Data Engineering**: Python (Pandas).
 
 Explore each project to gain insights into data analytics methodologies applied across diverse business domains, from coffee sales to pharmaceutical analytics!
 
