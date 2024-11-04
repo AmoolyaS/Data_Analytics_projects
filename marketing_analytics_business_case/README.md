@@ -63,3 +63,20 @@ Insights will be drawn from customer reviews (various issues and sentiments), so
 
 ## Conclusion
 This analysis aims to provide actionable insights to improve **ABC's** marketing strategies, thereby enhancing customer engagement and conversion rates. Continued assessment and iterative improvements will be critical for ongoing success.
+
+## 🔍 Preview
+
+**Overview**
+![Dashboard Preview](marketing_1_gif.gif)
+
+**Conversion Details**
+![Dashboard Preview](marketing_2_gif.gif)
+
+**Social Media Details**
+![Dashboard Preview](marketing_3_gif.gif)
+
+**Customer Review Details**
+![Dashboard Preview](marketing_4_gif.gif)
+
+
+
