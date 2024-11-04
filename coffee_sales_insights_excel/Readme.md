@@ -32,7 +32,7 @@ This dashboard is designed for coffee sales analysis, providing a comprehensive 
 
 ## 🔍 Preview
 
-![Dashboard Preview](coffee_sales_preview_gif.gif)
+![Dashboard Preview](coffee_sale_preview_gif.gif)
 
 
 
