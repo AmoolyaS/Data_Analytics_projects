@@ -57,7 +57,7 @@ Insights will be drawn from customer reviews (various issues and sentiments), so
 ## Strategy
 1. Collect data from the identified key tables in the SQL database.
 2. Clean the data using SQL for insights.
-3. Conduct advanced sentiment analysis using Python.
+3. Conduct advanced sentiment analysis using Python Natural Language processing.
 4. Build an interactive dashboard in Power BI.
 5. Present the data to stakeholders.
 
